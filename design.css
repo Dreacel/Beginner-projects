@@ -13,6 +13,12 @@ Body {
     height: 100vh;
 }
 
+h1 {
+    font-family: 'Franklin Gothic Medium';
+    font-size: 5rem;
+    color: #21421e;
+}
+
 .emoji {
     font-size: 10rem;
     cursor: pointer;
